@@ -54,6 +54,8 @@ nav {
     background-repeat: no-repeat;
     color: white;
     position: relative;
+    height: 100vh; /* Ajusta la altura del header */
+    width: 100%; /* Asegura que el ancho sea completo */
 }
 
 
